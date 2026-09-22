@@ -2,5 +2,15 @@
     <string name="app_name">每日吃药提醒</string>
     <string name="medicine_list_title">药品列表</string>
     <string name="add_medicine">添加药品</string>
+    <string name="edit_medicine">编辑药品</string>
     <string name="back">返回</string>
+    <string name="medicine_name">药名</string>
+    <string name="medicine_dosage">药量</string>
+    <string name="reminder_time">提醒时间</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete_medicine">删除药品</string>
+    <string name="delete_medicine_message">确定要删除这个药品吗？</string>
+    <string name="delete">删除</string>
+    <string name="required_field">请输入%s</string>
 </resources>
