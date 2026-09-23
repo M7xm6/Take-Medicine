@@ -13,4 +13,7 @@
     <string name="delete_medicine_message">确定要删除这个药品吗？</string>
     <string name="delete">删除</string>
     <string name="required_field">请输入%s</string>
+    <string name="notification_channel_name">吃药提醒</string>
+    <string name="notification_title">吃药提醒</string>
+    <string name="notification_content">该吃药了：%1$s %2$s</string>
 </resources>
