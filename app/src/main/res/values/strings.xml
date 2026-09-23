@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">每日吃药提醒</string>
+    <string name="app_name">TakeAMedicine</string>
     <string name="medicine_list_title">药品列表</string>
     <string name="add_medicine">添加药品</string>
     <string name="edit_medicine">编辑药品</string>
@@ -16,4 +16,22 @@
     <string name="notification_channel_name">吃药提醒</string>
     <string name="notification_title">吃药提醒</string>
     <string name="notification_content">该吃药了：%1$s %2$s</string>
+    <string name="empty_medicines">还没有添加药品，点击右下角添加</string>
+    <string name="unit">单位</string>
+    <string name="add_to_system_alarm">同时添加到系统闹钟</string>
+    <string name="invalid_dosage">请输入大于 0 的药量</string>
+    <string name="invalid_time">请输入有效的提醒时间</string>
+    <string name="invalid_unit">请选择药量单位</string>
+    <string name="notification_permission_denied">通知权限已关闭，请在系统设置中允许通知</string>
+    <string name="exact_alarm_inexact">精确闹钟权限不可用，提醒时间可能不精确</string>
+    <string name="system_alarm_unsupported">此设备不支持添加系统闹钟</string>
+    <string name="system_alarm_message">该吃药了：%1$s %2$s</string>
+    <string-array name="medicine_units">
+        <item>片</item>
+        <item>粒</item>
+        <item>瓶</item>
+        <item>支</item>
+        <item>毫升</item>
+        <item>毫克</item>
+    </string-array>
 </resources>

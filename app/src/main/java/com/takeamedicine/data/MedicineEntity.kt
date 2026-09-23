@@ -9,6 +9,7 @@ data class MedicineEntity(
     val id: Long = 0,
     val name: String,
     val dosage: String,
+    val unit: String = "片",
     val hour: Int,
     val minute: Int,
     val enabled: Boolean = true
